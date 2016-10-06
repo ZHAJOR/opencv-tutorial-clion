@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+bin/
+
+# MacOs Clion
+.DS_Store
+.idea/
